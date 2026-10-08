@@ -1,0 +1,172 @@
+[
+  {
+    "plant_name": "Tomato",
+    "disease_name": "Early Blight",
+    "description": "Early blight is a common fungal disease caused by Alternaria solani. It affects tomato plants worldwide and can cause significant yield loss.",
+    "treatment": "Apply fungicides containing chlorothalonil, mancozeb, or azoxystrobin. Begin treatment when first symptoms appear and repeat every 7-10 days.",
+    "organic_treatment": "Apply copper-based fungicides (Bordeaux mix) or neem oil spray every 7-14 days. Remove and destroy infected plant parts.",
+    "fertilizer": "Apply balanced NPK fertilizer (10-10-10) with adequate potassium to strengthen plant immunity. Foliar spray with seaweed extract.",
+    "prevention_tips": "Use disease-resistant varieties. Practice crop rotation (avoid planting tomatoes in same spot for 3+ years). Mulch to prevent soil splash. Water at base, not overhead. Ensure good air circulation.",
+    "symptoms": "Dark brown to black spots with concentric rings (target-like pattern) on lower leaves. Leaves turn yellow and drop prematurely. Stem lesions may occur."
+  },
+  {
+    "plant_name": "Tomato",
+    "disease_name": "Late Blight",
+    "description": "Late blight is a devastating disease caused by Phytophthora infestans. It spreads rapidly in cool, wet conditions and can destroy entire crops.",
+    "treatment": "Apply systemic fungicides containing metalaxyl, mefenoxam, or cymoxanil. Start preventively during wet weather. Remove and destroy infected plants immediately.",
+    "organic_treatment": "Apply copper hydroxide (Kocide) or Bacillus subtilis-based products. Ensure proper drainage. Remove infected plants to prevent spread.",
+    "fertilizer": "Apply calcium-rich fertilizer to strengthen cell walls. Avoid excessive nitrogen which promotes lush growth susceptible to disease.",
+    "prevention_tips": "Use resistant varieties. Avoid overhead irrigation. Space plants for good air circulation. Monitor weather forecasts for favorable disease conditions. Remove volunteer solanaceous plants.",
+    "symptoms": "Water-soaked lesions on leaves that turn brown and necrotic. White fuzzy growth on leaf undersides in humid conditions. Fruit develops firm, brown spots."
+  },
+  {
+    "plant_name": "Tomato",
+    "disease_name": "Leaf Mold",
+    "description": "Leaf mold is caused by the fungus Passalora fulva (formerly Fulvia fulva). It thrives in high humidity and is common in greenhouse tomatoes.",
+    "treatment": "Apply fungicides such as chlorothalonil or mancozeb. Improve greenhouse ventilation. Remove infected leaves promptly.",
+    "organic_treatment": "Use neem oil or copper-based sprays. Increase air circulation. Prune lower leaves to reduce humidity around plants.",
+    "fertilizer": "Maintain balanced nutrition with emphasis on potassium. Avoid excessive nitrogen.",
+    "prevention_tips": "Ensure good ventilation in greenhouses. Avoid overcrowding. Use resistant varieties. Water at the base of plants.",
+    "symptoms": "Pale green to yellow spots on upper leaf surface. Olive-green to brown velvety mold on lower leaf surface. Infected leaves may curl and drop."
+  },
+  {
+    "plant_name": "Tomato",
+    "disease_name": "Septoria Leaf Spot",
+    "description": "Septoria leaf spot is caused by the fungus Septoria lycopersici. It is one of the most common and destructive tomato diseases.",
+    "treatment": "Apply fungicides containing chlorothalonil, copper, or mancozeb. Begin when first symptoms appear and continue throughout the season.",
+    "organic_treatment": "Apply copper spray or neem oil. Remove all infected plant debris at end of season. Mulch to prevent soil splash.",
+    "fertilizer": "Maintain adequate calcium levels. Use balanced fertilizer to keep plants vigorous.",
+    "prevention_tips": "Remove and destroy infected leaves. Avoid working with plants when wet. Mulch heavily. Practice crop rotation. Use disease-free transplants.",
+    "symptoms": "Small, circular spots with gray centers and dark margins on lower leaves. Spots may merge causing leaf death. Tiny black fruiting bodies visible in spots."
+  },
+  {
+    "plant_name": "Tomato",
+    "disease_name": "Bacterial Spot",
+    "description": "Bacterial spot is caused by Xanthomonas campestris pv. vesicatoria. It causes significant damage to leaves and fruit.",
+    "treatment": "Apply copper-based bactericides (copper hydroxide or copper oxychloride) combined with mancozeb. Start early in the season.",
+    "organic_treatment": "Copper sprays are the primary organic option. Remove infected plant material. Avoid overhead watering.",
+    "fertilizer": "Maintain plant vigor with balanced nutrition. Avoid high nitrogen which promotes succulent growth.",
+    "prevention_tips": "Use bacterial spot-resistant varieties. Use disease-free seeds and transplants. Avoid working in fields when wet. Practice crop rotation.",
+    "symptoms": "Small, water-soaked lesions on leaves that become brown and angular. Defoliation occurs with severe infection. Fruit spots are raised and scab-like."
+  },
+  {
+    "plant_name": "Tomato",
+    "disease_name": "Healthy",
+    "description": "The plant appears healthy with no visible signs of disease. Leaves are green and vigorous.",
+    "treatment": "No treatment needed. Continue regular care and monitoring.",
+    "organic_treatment": "Maintain organic practices with compost tea and companion planting.",
+    "fertilizer": "Apply balanced fertilizer as per growth stage. Side-dress with compost during fruiting.",
+    "prevention_tips": "Continue good cultural practices: proper spacing, crop rotation, adequate watering, and regular inspection.",
+    "symptoms": "No disease symptoms. Plant shows normal growth with green foliage and healthy fruit development."
+  },
+  {
+    "plant_name": "Potato",
+    "disease_name": "Early Blight",
+    "description": "Early blight caused by Alternaria solani affects potato foliage and can reduce tuber yield significantly.",
+    "treatment": "Apply fungicides containing chlorothalonil, mancozeb, or azoxystrobin. Begin at first sign of disease.",
+    "organic_treatment": "Apply copper-based fungicides or neem oil. Remove and destroy infected foliage.",
+    "fertilizer": "Apply adequate potassium to strengthen plants. Maintain soil pH around 5.5-6.5.",
+    "prevention_tips": "Use certified seed potatoes. Practice 3-year crop rotation. Hill soil around plants to cover tubers. Avoid overhead irrigation.",
+    "symptoms": "Dark brown spots with concentric rings on lower leaves. Yellowing and death of infected tissue. Stem lesions at soil line."
+  },
+  {
+    "plant_name": "Potato",
+    "disease_name": "Late Blight",
+    "description": "Late blight caused by Phytophthora infestans is the same disease that caused the Irish potato famine. It can destroy entire fields rapidly.",
+    "treatment": "Apply systemic fungicides with metalaxyl or mefenoxam. Remove and destroy infected plants immediately to prevent spread.",
+    "organic_treatment": "Apply copper hydroxide sprays. Destroy infected plants. Ensure good field drainage.",
+    "fertilizer": "Avoid excessive nitrogen. Maintain adequate phosphorus for root development.",
+    "prevention_tips": "Use resistant varieties. Plant in well-drained soil. Monitor weather for favorable conditions. Destroy volunteer potatoes and solanaceous weeds.",
+    "symptoms": "Water-soaked lesions on leaves turning brown. White mold growth on leaf undersides in humid weather. Tuber rot with reddish-brown discoloration."
+  },
+  {
+    "plant_name": "Potato",
+    "disease_name": "Healthy",
+    "description": "The potato plant is healthy with vigorous growth and no visible disease symptoms.",
+    "treatment": "No treatment needed.",
+    "organic_treatment": "Continue with organic soil management and compost applications.",
+    "fertilizer": "Apply balanced fertilizer with emphasis on potassium for tuber development.",
+    "prevention_tips": "Monitor regularly for early disease detection. Maintain proper hilling and irrigation practices.",
+    "symptoms": "No disease symptoms. Plants show normal growth with healthy green foliage."
+  },
+  {
+    "plant_name": "Rice",
+    "disease_name": "Brown Spot",
+    "description": "Brown spot is caused by the fungus Bipolaris oryzae. It affects rice foliage, glumes, and grains.",
+    "treatment": "Apply fungicides containing iprodione, propiconazole, or tricyclazole. Seed treatment with carbendazim before planting.",
+    "organic_treatment": "Apply Pseudomonas fluorescens-based biofungicide. Use neem cake or neem oil spray. Ensure proper field sanitation.",
+    "fertilizer": "Apply adequate silicon to strengthen plant tissues. Balanced NPK with proper micronutrients.",
+    "prevention_tips": "Use healthy, disease-free seeds. Practice proper spacing. Ensure good field drainage. Avoid excessive nitrogen.",
+    "symptoms": "Oval to circular brown spots on leaves with yellow halo. Spots on grain (glumes) reducing quality. Severe infection causes leaf drying."
+  },
+  {
+    "plant_name": "Rice",
+    "disease_name": "Leaf Blast",
+    "description": "Leaf blast is caused by Magnaporthe oryzae. It is one of the most destructive rice diseases worldwide.",
+    "treatment": "Apply fungicides containing tricyclazole, isoprothiolane, or azoxystrobin. Seed treatment with carbendazim or tricyclazole.",
+    "organic_treatment": "Apply Pseudomonas fluorescens. Use resistant varieties. Balance nitrogen fertilizer application.",
+    "fertilizer": "Avoid excessive nitrogen. Apply potash to strengthen plant resistance. Use silica-based fertilizers.",
+    "prevention_tips": "Use blast-resistant varieties. Avoid dense planting. Apply split nitrogen doses. Use proper water management.",
+    "symptoms": "Diamond-shaped lesions with gray centers and dark brown margins on leaves. Lesions may girdle leaves causing death. In severe cases, entire leaves dry up."
+  },
+  {
+    "plant_name": "Rice",
+    "disease_name": "Healthy",
+    "description": "The rice plant is healthy with no signs of disease.",
+    "treatment": "No treatment needed.",
+    "organic_treatment": "Continue with organic amendments and biological pest management.",
+    "fertilizer": "Apply balanced fertilizer as per growth stage recommendations.",
+    "prevention_tips": "Maintain proper water levels and field sanitation.",
+    "symptoms": "No disease symptoms. Plants show normal growth with green foliage and healthy tillers."
+  },
+  {
+    "plant_name": "Maize",
+    "disease_name": "Northern Leaf Blight",
+    "description": "Northern leaf blight is caused by the fungus Exserohilum turcicum. It is one of the most common and destructive corn diseases.",
+    "treatment": "Apply fungicides containing propiconazole, tebuconazole, or azoxystrobin. Begin at tasseling or silking stage.",
+    "organic_treatment": "Use resistant hybrids. Remove and destroy infected residue. Apply biological control agents like Bacillus subtilis.",
+    "fertilizer": "Maintain adequate nitrogen and potassium. Avoid excessive nitrogen that favors disease development.",
+    "prevention_tips": "Plant resistant hybrids. Practice crop rotation with non-host crops. Bury crop residue. Avoid overhead irrigation.",
+    "symptoms": "Long, cigar-shaped grayish-tan lesions on leaves. Lesions can be 1-6 inches long. Under humid conditions, dark fungal growth appears on lesions."
+  },
+  {
+    "plant_name": "Maize",
+    "disease_name": "Common Rust",
+    "description": "Common rust is caused by the fungus Puccinia sorghi. It appears as rust-colored pustules on leaves.",
+    "treatment": "Apply fungicides with triazole or strobilurin chemistry when rust pustules first appear. Most modern hybrids have good resistance.",
+    "organic_treatment": "Plant resistant varieties. Remove alternate host plants (certain grasses). Apply neem-based products.",
+    "fertilizer": "Maintain balanced nutrition with adequate potassium for disease resistance.",
+    "prevention_tips": "Use resistant hybrids. Scout fields early. Most hybrids have adequate resistance, so chemical control is rarely needed.",
+    "symptoms": "Small, round to elongated rust-colored pustules on both leaf surfaces. Pustules contain powdery orange spores. Severe infection causes leaf yellowing and death."
+  },
+  {
+    "plant_name": "Maize",
+    "disease_name": "Healthy",
+    "description": "The maize/corn plant is healthy with no visible disease symptoms.",
+    "treatment": "No treatment needed.",
+    "organic_treatment": "Continue organic soil management practices.",
+    "fertilizer": "Apply balanced NPK fertilizer as per growth stage.",
+    "prevention_tips": "Continue good agricultural practices including proper spacing and irrigation.",
+    "symptoms": "No disease symptoms. Plants show normal growth with healthy green leaves and well-developed ears."
+  },
+  {
+    "plant_name": "Cotton",
+    "disease_name": "Bacterial Blight",
+    "description": "Bacterial blight (also called angular leaf spot) is caused by Xanthomonas citri pv. malvacearum. It affects all above-ground parts of cotton plants.",
+    "treatment": "Apply copper-based bactericides. Use seed treatment with antibiotics or hot water treatment before planting. Remove infected plants.",
+    "organic_treatment": "Apply copper hydroxide sprays. Use certified disease-free seed. Practice strict field sanitation.",
+    "fertilizer": "Apply balanced fertilizer. Avoid excessive nitrogen which favors disease development.",
+    "prevention_tips": "Use resistant varieties. Use certified disease-free seed. Practice crop rotation. Avoid working in fields when wet.",
+    "symptoms": "Angular, water-soaked spots on leaves that turn dark brown to black. Spots have a greasy appearance. Stem and boll lesions also occur. Boll infection causes staining of lint."
+  },
+  {
+    "plant_name": "Cotton",
+    "disease_name": "Healthy",
+    "description": "The cotton plant is healthy with no visible disease symptoms.",
+    "treatment": "No treatment needed.",
+    "organic_treatment": "Continue with organic amendments and biological pest management.",
+    "fertilizer": "Apply balanced NPK with adequate potassium for boll development.",
+    "prevention_tips": "Maintain proper plant spacing and field sanitation.",
+    "symptoms": "No disease symptoms. Plants show normal growth with healthy foliage and bolls."
+  }
+]
